@@ -1,5 +1,5 @@
 #### Mini-project
-Demo some ideas and concepts 
+Demo project ideas and concepts
 
 ### Project ideas
 
