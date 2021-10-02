@@ -1,5 +1,4 @@
-#### Mini-project
-Demo project ideas and concepts
+#### Mini-project - demo project ideas and concepts
 
 ### Project ideas and concepts
 
