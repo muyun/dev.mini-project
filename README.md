@@ -1,8 +1,9 @@
 #### Mini-project
 Demo project ideas and concepts
 
-### Project ideas
+### Project ideas and concepts
 
+#### [Edit Your demo on GitHub](https://github.com/muyun/dev.mini-project/edit/master/README.md)
 
 #### <u>[chatwithme](https://github.com/muyun/dev.kbs/tree/master/chatwithme)</u> 
 
@@ -15,5 +16,4 @@ Demo project ideas and concepts
 
 * ![08](https://github.com/muyun/muyun.github.io/blob/main/docs/img/08.jpg)   *Wucheng, Shandong in 1890*
 
-#### [Edit Your demo on GitHub](https://github.com/muyun/dev.mini-project/edit/master/README.md)
 
